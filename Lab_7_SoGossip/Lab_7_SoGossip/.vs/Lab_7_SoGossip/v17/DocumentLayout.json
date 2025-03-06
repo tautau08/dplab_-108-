@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Legion\\Desktop\\Lab_7_SoGossip\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B108E3C3-7949-43D0-8363-9B555B2BDE0E}|Lab_7_SoGossip\\Lab_7_SoGossip.csproj|c:\\users\\legion\\desktop\\lab_7_sogossip\\lab_7_sogossip\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B108E3C3-7949-43D0-8363-9B555B2BDE0E}|Lab_7_SoGossip\\Lab_7_SoGossip.csproj|solutionrelative:lab_7_sogossip\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B108E3C3-7949-43D0-8363-9B555B2BDE0E}|Lab_7_SoGossip\\Lab_7_SoGossip.csproj|c:\\users\\legion\\desktop\\lab_7_sogossip\\lab_7_sogossip\\socialmediaaggregator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B108E3C3-7949-43D0-8363-9B555B2BDE0E}|Lab_7_SoGossip\\Lab_7_SoGossip.csproj|solutionrelative:lab_7_sogossip\\socialmediaaggregator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B108E3C3-7949-43D0-8363-9B555B2BDE0E}|Lab_7_SoGossip\\Lab_7_SoGossip.csproj|c:\\users\\legion\\desktop\\lab_7_sogossip\\lab_7_sogossip\\twitternotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B108E3C3-7949-43D0-8363-9B555B2BDE0E}|Lab_7_SoGossip\\Lab_7_SoGossip.csproj|solutionrelative:lab_7_sogossip\\twitternotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B108E3C3-7949-43D0-8363-9B555B2BDE0E}|Lab_7_SoGossip\\Lab_7_SoGossip.csproj|c:\\users\\legion\\desktop\\lab_7_sogossip\\lab_7_sogossip\\inotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B108E3C3-7949-43D0-8363-9B555B2BDE0E}|Lab_7_SoGossip\\Lab_7_SoGossip.csproj|solutionrelative:lab_7_sogossip\\inotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SocialMediaAggregator.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\Desktop\\Lab_7_SoGossip\\Lab_7_SoGossip\\SocialMediaAggregator.cs",
+              "RelativeDocumentMoniker": "Lab_7_SoGossip\\SocialMediaAggregator.cs",
+              "ToolTip": "C:\\Users\\Legion\\Desktop\\Lab_7_SoGossip\\Lab_7_SoGossip\\SocialMediaAggregator.cs",
+              "RelativeToolTip": "Lab_7_SoGossip\\SocialMediaAggregator.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T05:16:00.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TwitterNotification.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\Desktop\\Lab_7_SoGossip\\Lab_7_SoGossip\\TwitterNotification.cs",
+              "RelativeDocumentMoniker": "Lab_7_SoGossip\\TwitterNotification.cs",
+              "ToolTip": "C:\\Users\\Legion\\Desktop\\Lab_7_SoGossip\\Lab_7_SoGossip\\TwitterNotification.cs",
+              "RelativeToolTip": "Lab_7_SoGossip\\TwitterNotification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T05:15:38.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "INotification.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\Desktop\\Lab_7_SoGossip\\Lab_7_SoGossip\\INotification.cs",
+              "RelativeDocumentMoniker": "Lab_7_SoGossip\\INotification.cs",
+              "ToolTip": "C:\\Users\\Legion\\Desktop\\Lab_7_SoGossip\\Lab_7_SoGossip\\INotification.cs",
+              "RelativeToolTip": "Lab_7_SoGossip\\INotification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T05:14:52.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\Desktop\\Lab_7_SoGossip\\Lab_7_SoGossip\\Program.cs",
+              "RelativeDocumentMoniker": "Lab_7_SoGossip\\Program.cs",
+              "ToolTip": "C:\\Users\\Legion\\Desktop\\Lab_7_SoGossip\\Lab_7_SoGossip\\Program.cs",
+              "RelativeToolTip": "Lab_7_SoGossip\\Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAYwCQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T05:14:36.465Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

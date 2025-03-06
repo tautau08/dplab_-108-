@@ -13,6 +13,6 @@ public class Main {
         // Sending postal mail notification using 3rd party API
         Notification postalMailNotification = new PostalMailNotification("Banasree,Rampura", "Tauhid");
         NotificationSender postalMailSender = new NotificationSender(postalMailNotification);
-        postalMailSender.sendNotification("This is a postal mail message.");
+        postalMailSender.sendNotification("Valo Thaikko baap.");
     }
 }
